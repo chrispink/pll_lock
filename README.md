@@ -7,10 +7,13 @@ It is applied only in Edit Screen and not the New Post screen
 
 Note this is not a plugin, it's part of a theme and should be embedded as such
 
-pll.js the Javascript
-admin-style.css  the CSS
-admin-style.scss the SASS
-polylang-functions.php include in your functions.php, references the JS and CSS in directories /js and /css relative to the template directory
+  pll.js the Javascript
+
+  admin-style.css  the CSS
+
+  admin-style.scss the SASS
+
+  polylang-functions.php include in your functions.php, references the JS and CSS in directories /js and /css relative to the template directory
 
 Dependencies are dashicons font and jQuery > 1.8
 
