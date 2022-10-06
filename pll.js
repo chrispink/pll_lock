@@ -4,7 +4,7 @@ jQuery(document).ready(function($){
    $('select#term_lang_choice').attr('disabled','true');
    $('td.pll-sync-column').addClass('sync-lock');
 
-   $('#ml_box').append(
+   $('#ml_box .inside').append(
        '<div class="padlock"></div>'
    );
 
