@@ -2,12 +2,13 @@
   background: #cc0000;
   cursor: pointer;
   position: absolute;
-  top: 50px;
+  top: 10px;
   right: 10px;
   width: 25px;
   height: 25px;
   border-radius: 2px;
   color: #fff;
+  line-height: 1;
 }
 .padlock:before {
   font-family: "dashicons";
